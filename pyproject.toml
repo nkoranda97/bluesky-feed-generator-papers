@@ -1,0 +1,12 @@
+[project]
+name = "bluesky-feed-generator-papers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "atproto>=0.0.58",
+    "flask>=3.1.0",
+    "peewee>=3.17.9",
+    "python-dotenv>=1.0.1",
+]
